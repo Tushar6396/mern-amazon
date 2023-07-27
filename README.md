@@ -8,3 +8,6 @@
 4. Create the git repository.
 5. Create a data file with the products' data.
 6. Use map function to render the products.
+7. Add Routing to the application.
+   1. Install react-router-dom.
+   2. Create route for home screen and product screen.
